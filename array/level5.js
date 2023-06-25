@@ -1,8 +1,8 @@
 //calculate the sum of the array using either for of or for in
 const arr=[2,3,6,7]
-let sum = 0
+let sum1 = 0
 for(let i of arr){
- sum = sum + i
+ sum1 = sum1 + i
 }
 console.log(i)
 
